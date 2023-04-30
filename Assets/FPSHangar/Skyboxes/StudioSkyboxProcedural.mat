@@ -62,7 +62,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaTestRef: 0.5
-    - _AtmosphereThickness: 1.3971378
+    - _AtmosphereThickness: 1.24408
     - _BumpScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
