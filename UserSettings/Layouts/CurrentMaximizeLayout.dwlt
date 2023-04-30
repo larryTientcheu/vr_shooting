@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 2304
+  controlID: 2418
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 2305
+  controlID: 2419
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 2306
+  controlID: 2410
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -538,9 +538,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.4767425, y: 0.47595662, z: -3.1699927}
+    m_Target: {x: -4.4005995, y: 1.1890948, z: -3.074441}
     speed: 2
-    m_Value: {x: -1.4767425, y: 0.47595662, z: -3.1699927}
+    m_Value: {x: -4.4005995, y: 1.1890948, z: -3.074441}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -587,9 +587,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.15468611, y: 0.5926269, z: -0.11721361, w: -0.78181237}
+    m_Target: {x: -0.015681451, y: 0.67866635, z: -0.014426724, w: -0.73420876}
     speed: 2
-    m_Value: {x: -0.15467806, y: 0.5925961, z: -0.11720751, w: -0.7817717}
+    m_Value: {x: -0.015680632, y: 0.67863095, z: -0.014425971, w: -0.73417044}
   m_Size:
     m_Target: 2.6454792
     speed: 2
@@ -637,8 +637,8 @@ MonoBehaviour:
     y: 769
     width: 2631
     height: 530
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -687,22 +687,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Adventure_Character/Prefabs
+    - Assets/Nokobot/Modern Guns - Handgun/_Demo Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Adventure_Character/Prefabs
+  - Assets/Nokobot/Modern Guns - Handgun/_Demo Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\Grimm\\Documents\\M1_2022_2023\\4\xE8me ann\xE9e\\4IRV\\vr_shooting"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 54900000
-    m_LastClickedID: 36948
-    m_ExpandedIDs: 00000000908700009287000094870000988700009a8700009c8700009e8700009490000000ca9a3b
+    scrollPos: {x: 0, y: 167}
+    m_SelectedIDs: ce870000
+    m_LastClickedID: 34766
+    m_ExpandedIDs: 0000000090870000928700009487000096870000988700009a8700009c8700009e87000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -755,9 +755,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: fc660000
+    m_LastClickedInstanceID: 26364
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -834,8 +834,8 @@ MonoBehaviour:
     y: 0
     width: 809
     height: 1299
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -876,7 +876,7 @@ MonoBehaviour:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -1
+  m_LastInspectedObjectInstanceID: 26364
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
